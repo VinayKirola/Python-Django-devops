@@ -154,7 +154,7 @@ To get started with this CI/CD pipeline, follow the steps below:
     ```
 Run the Jenkins job and verify the successful execution of the pipeline.
 
-![1](https://github.com/kamleshrawat/Automated-Testing-with-Jenkins-and-Docker/assets/108130020/fc9b8c88-3090-4fcb-bd0f-a0236d83d6b3)
+![1](https://github.com/VinayKirola/Automated-Testing-with-Jenkins-and-Docker/assets/108130020/fc9b8c88-3090-4fcb-bd0f-a0236d83d6b3)
 
 
 *Application is running, and whenever a developer commits changes to the GitHub repository, it will automatically get deployed to the application.*
